@@ -1,0 +1,56 @@
+title {
+  text-align: center;
+}
+#description {
+  text-align: center;
+}
+h1 {
+  color:white;
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+  padding-top: 60px;
+  font-family: 'Bebas Neue', cursive;
+}
+p {
+  color:white;
+  font-size: 23px;
+  padding-top: 30px;
+  text-align: center;
+  font-weight: bold;
+font-family: 'Questrial', sans-serif;
+}
+body {
+margin: 0;
+}
+ #first {
+   background-image: url(https://dayton247now.com/resources/media/abaa1b2e-4cde-4552-89f5-6908a060c245-large16x9_GettyImages1208764525.jpg?1594344211898);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100%;
+width: 100%;
+margin:0;
+ }
+
+#survey-form {
+  color: black;
+    background: rgba(255, 255, 255, 0.65);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    position: relative;
+}
+#second {
+  margin-left: 300px;
+  margin-right: 300px;
+  padding-left: 20px;
+  padding-top: 10px;
+  margin-top: 60px;
+  position: relative;
+}
+
+#submit {
+  position: relative;
+  left: 365px;
+}
